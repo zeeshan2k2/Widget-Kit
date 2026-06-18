@@ -13,6 +13,17 @@
 
 ---
 
+## Notes
+
+<p>
+Detailed learning notes and experiments can be found here:<br>
+<a href="https://secretive-fascinator-c6c.notion.site/WidgetKit-284d7fcea352803eb73bef1b9c60dace?source=copy_link">
+WidgetKit Notes (Notion)
+</a>
+</p>
+
+---
+
 ## Screenshots  
 
 <p align="center">
@@ -40,6 +51,8 @@ This project is built for learning how WidgetKit works, including timelines, ent
 ## Getting Started  
 
 1. Clone the repository:  
+
    ```bash
    git clone https://github.com/zeeshan2k2/Widget-Kit.git
    cd Widget-Kit
+   ```
